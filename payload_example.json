@@ -1,0 +1,14 @@
+{
+    "events": [
+        {
+            "event": "ANALYSIS_RESULT_UPLOAD_COMPLETE_SUCCESS",
+            "artifactId": 40,
+            "projectVersionId": 10006,
+            "filename": "test-1.0.0.fpr",
+            "username": "admin"
+        }
+    ],
+    "triggeredAt": "2023-10-01T12:00:00.044+0000",
+    "sscUrl": "https://ssc.example.com",
+    "webHookId": 1
+}
